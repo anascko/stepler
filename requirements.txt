@@ -47,4 +47,4 @@ Sphinx==1.4.6
 oslosphinx==4.7.0
 
 # verification
-tox==2.4.1
+tox==2.7.0
