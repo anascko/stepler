@@ -6,4 +6,6 @@ Stepler framework is intended to provide the community with a testing framework 
 
 This solution is not intended for OpenStack API validation, but provides simple tool for creation tests to check advanced end-user scenarios.
 
+Test
+
 Read more here: http://stepler.readthedocs.io/
